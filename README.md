@@ -1,4 +1,4 @@
-# URL Shortener [Backend]
+# URL Shortener Discord Bot
 
 ![](/github_assets/short-url-banner.png)
 
