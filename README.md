@@ -12,6 +12,25 @@ GitHub Repo of the Web Service: [https://github.com/anuj-thakur-513/urL-Shortene
 
 ![](/github_assets/Discord%20Bot%20Service.jpg)
 
+## Directory Structure
+```
+.
+├── Dockerfile
+├── README.md
+├── keys
+│   ├── url-shortener-discord-bot.pem
+├── package-lock.json
+├── package.json
+└── src
+    ├── commands
+    │   └── shorten.js
+    ├── constants.js
+    ├── index.js
+    └── utils
+        ├── Embed.js
+        └── generateRequestInput.js
+```
+
 ## Find this project useful ? ❤️
 
 Support it by clicking the 🌟 button on the upper right of this page. ❤️
