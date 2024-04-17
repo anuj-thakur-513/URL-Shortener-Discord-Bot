@@ -2,11 +2,18 @@
 
 ![](/github_assets/short-url-banner.png)
 
-A Discord Bot which shortens the URL with /create <url> command and returns the shortened URL.
+A Discord Bot which shortens the URL with /shorten <url> command and returns the shortened URL.
 
 Web Service Used for API Calls: [https://url-shortener-s2ns.onrender.com/welcome](https://url-shortener-s2ns.onrender.com/welcome)
 
 GitHub Repo of the Web Service: [https://github.com/anuj-thakur-513/urL-Shortener/](https://github.com/anuj-thakur-513/urL-Shortener/)
+
+## Demo
+
+
+https://github.com/anuj-thakur-513/URL-Shortener-Discord-Bot/assets/82753410/bc449f7e-359d-4bbd-9bfe-25682c63eaa7
+
+
 
 ## Discord Bot Functionality
 
