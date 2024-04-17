@@ -98,6 +98,9 @@ dist
 # Serverless directories
 .serverless/
 
+# Keys
+url-shortener-discord-bot.pem
+
 # FuseBox cache
 .fusebox/
 
