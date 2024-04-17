@@ -11,7 +11,8 @@ GitHub Repo of the Web Service: [https://github.com/anuj-thakur-513/urL-Shortene
 ## Demo
 
 
-https://github.com/anuj-thakur-513/URL-Shortener-Discord-Bot/assets/82753410/bc449f7e-359d-4bbd-9bfe-25682c63eaa7
+
+https://github.com/anuj-thakur-513/URL-Shortener-Discord-Bot/assets/82753410/fc26f934-d6b4-4b23-8bf0-fb44b0ffc38d
 
 
 
